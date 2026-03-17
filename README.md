@@ -17,7 +17,7 @@ A React Native (Expo) mobile application that allows users to track their physic
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/pathfinder.git
+   git clone https://github.com/TrajchevD/pathfinder.git
    cd pathfinder
 ```
 
