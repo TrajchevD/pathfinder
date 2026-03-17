@@ -7,7 +7,7 @@
 // import { formatDistance, formatDuration } from '../utils/distance';
 // import { Colors } from '../constants/colors';
 
-// const MAPTILER_KEY = 'o5uVIsPXFPeqAbkviNmQ';
+// const MAPTILER_KEY = process.env.EXPO_PUBLIC_MAPTILER_KEY;
 
 // export function DetailScreen() {
 //   const navigation = useNavigation();

@@ -13,7 +13,7 @@
 // import { Colors } from '../constants/colors';
 
 // import MapView, { Polyline, Marker, UrlTile } from 'react-native-maps';
-// const MAPTILER_KEY = 'o5uVIsPXFPeqAbkviNmQ';
+// const MAPTILER_KEY = process.env.EXPO_PUBLIC_MAPTILER_KEY;
 // export function MapScreen() {
 //   const mapRef = useRef<MapView>(null);
 //   const [permissionDenied, setPermissionDenied] = useState(false);
