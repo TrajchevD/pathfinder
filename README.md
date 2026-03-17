@@ -3,6 +3,11 @@
 A React Native (Expo) mobile application that allows users to track their physical movements in real-time, save their routes, and review past activities. Built as part of the Intertec AI Native Internship technical assessment.
 
 ---
+## Screenshots 
+
+| Map Screen | Map Google | History | Detail View | Detail Google
+|---|---|---|---|---|
+| ![Map](./screenshots/map_screen.png) | ![Google Map](./screenshots/map_screen_google.png) | ![History](./screenshots/history.png) | ![Detail](./screenshots/detail_screen.png) | ![Detail](./screenshots/detail_screen_google.png) |
 
 ## How to Run
 
